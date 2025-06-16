@@ -19,9 +19,5 @@ In today's fast-paced digital world, keeping up with news can be overwhelming. T
 - `Tkinter` – GUI development 🎨  
 - `lxml_html_clean` – HTML cleaning 🏗️  
 
-## 🏗️ Installation & Setup  
-1️⃣ **Clone the repository** 📂  
-```bash
-[git clone https://github.com/your-repo/news-summarizer.git](https://github.com/Tejesh916k/internship_project)
-cd news-summarizer
+
 
