@@ -1,0 +1,4 @@
+textblob
+nltk
+newspaper3k
+tk
