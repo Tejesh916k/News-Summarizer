@@ -1,5 +1,0 @@
-python3.10
-python3.10-dev
-build-essential
-libxml2-dev
-libxslt1-dev

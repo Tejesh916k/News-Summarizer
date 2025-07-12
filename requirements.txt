@@ -1,6 +1,5 @@
+streamlit
+newspaper3k==0.2.8
 textblob
 nltk
-newspaper3k
-streamlit
-tk
 lxml
