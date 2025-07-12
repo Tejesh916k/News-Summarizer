@@ -3,3 +3,4 @@ nltk
 newspaper3k
 streamlit
 tk
+lxml
