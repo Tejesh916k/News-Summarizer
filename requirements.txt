@@ -1,4 +1,5 @@
 textblob
 nltk
 newspaper3k
+streamlit
 tk
